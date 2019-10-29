@@ -40,4 +40,8 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 !.gitkeep
+=======
+!.gitkeep
+>>>>>>> 62625dcc322cf2a9d57edf3a25e3b42778ec423d
